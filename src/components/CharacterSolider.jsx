@@ -137,4 +137,4 @@ export default function CharacterSoldier({
   );
 }
 
-useGLTF.preload("/models/Character_Soldier.gltf");
+useGLTF.preload("./models/Character_Soldier.gltf");
